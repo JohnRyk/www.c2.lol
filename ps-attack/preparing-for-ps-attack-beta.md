@@ -7,6 +7,8 @@ description: >-
 
 # Preparing for PS&gt;Attack Beta
 
+_Originally Published: Janurary 9th, 2016_
+
 The past month PS&gt;Attack has really taken shape. Error handling has been added to a lot of aspects of the project, auto-complete works in the PS&gt;Punch console and more modules have been added. PS&gt;Punch is becoming a console I can actually feel comfortable with. This weekend I'll begin working on the `get-attack` module which will serve as an attack search engine for the console, making it easier for people new to offensive PowerShell to find the attack they're looking for. Once that's done, we can enter a beta state and start fixing bugs.
 
 So much work has gone into PS&gt;Attack the last month that it's easy to lose track, so I wanted to write an update on what's new and improved.
