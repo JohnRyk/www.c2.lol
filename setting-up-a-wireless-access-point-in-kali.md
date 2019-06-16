@@ -7,6 +7,8 @@ description: >-
 
 # Setting up a Wireless Access Point in Kali
 
+_Originally Published:  April 10th, 2016_
+
 ### Some Background <a id="some-background"></a>
 
 I was doing an assessment recently on a piece of hardware and I wanted to sniff the traffic leaving the device over it's wireless interface. In the office we have networking equipment available that would allow me to just capture this traffic off a local switch or router using `tcpdump`. This assessment was being done on-site in the client's office though, so that wasn't an option this time around. I decided that the quickest, easiest and least intrusive way to get to the devices wireless traffic would be to setup a wireless access point in Kali and then sniff the traffic as it came across.

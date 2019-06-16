@@ -7,6 +7,8 @@ description: >-
 
 # Setting up Chris Long's DetectionLab
 
+_Originally Published:  December 18th, 2017_
+
 I'm super stoked about this project. It's incredibly important for an attacker to be aware of their IOCs, but there's quite a bit of knowledge required to build out security monitoring. This project handles:
 
 * Deploying Splunk

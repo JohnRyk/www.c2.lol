@@ -7,6 +7,8 @@ description: >-
 
 # Maturity in Infosec
 
+_Originally Published:  August 11th, 2017_
+
 ### Shells are sexy <a id="shells-are-sexy"></a>
 
 I think anyone who starts Red Teaming loves the "badness" of it. You get to be a bad guy, break into companies, and outsmart some very smart people. There's nothing better than getting a shell. Heck, even the shells in a lab environment are fun but man, those live shells. Those are something else.

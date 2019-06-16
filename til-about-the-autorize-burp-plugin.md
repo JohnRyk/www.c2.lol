@@ -6,6 +6,8 @@ description: >-
 
 # TIL about the Autorize Burp Plugin
 
+_Originally Published:  February 10, 2016_
+
 #### Auth issues are hard <a id="auth-issues-are-hard"></a>
 
 AuthN and AuthZ issues can be tricky and time consuming to track down. You have to take a potentially vulnerable request and run it through a gauntlet of tests \(unauthenticated and different user levels\) which typically involves juggling several cookies per request. Most engagments are on a time limit so being thorough here is an investment, but when it pays off it's totally worth it.
